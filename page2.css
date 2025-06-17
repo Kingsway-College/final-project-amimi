@@ -1,0 +1,161 @@
+body {
+    height: 100svh;
+    margin: 0px;
+    display: grid;
+  }
+
+header{
+    text-align: right;
+    padding: 1px;
+    margin: 0px;
+  }
+
+.navbar{
+      text-decoration: none;
+      font-size: 20px;
+      display: flex;
+        justify-content: flex-end;
+    font-family: "Lato", sans-serif;
+  font-weight: 700;
+  }
+  .navtitle{
+      text-decoration: none;
+      font-size: 16px;
+      display: flex;
+        justify-content: flex-end;
+        margin-top: 8px;
+        margin-left: -200px;
+  }
+  .navLinks {
+    padding: 30px;
+  }
+  .icon {
+    margin-right: 920px;
+    margin-top: -5px;
+  }
+  .page1title{
+  background-image: url(IMG_5706.JPG);
+   margin: 0px;
+   margin-top: -40px;
+  padding: 10px;
+  height: 80%;
+  color: rgb(223, 223, 223);
+  }
+  h1 {
+    margin-top: 45px;
+    font-size: 50px;
+    font-family: "Lato", sans-serif;
+  font-weight: 700;
+  }
+  .modelview {
+    margin-top: -40px;
+    margin-bottom: -20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  .modelname {
+    margin-top: 50px;
+    text-align: center;
+    font-family: "Nunito", sans-serif;
+  }
+  .modeldivider {
+    margin-right: 550px;
+    margin-left: 550px;
+    margin-bottom: 50px;
+  }
+img {
+    height: 160px;
+    width: 150px;
+  }
+
+.nunito {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+h2 {
+  text-align: center;
+  font-family: "Nunito", sans-serif;
+}
+.GALLERY {
+  margin-top: -50px;
+  margin-bottom: 50px;
+}
+p {
+  margin: 10px;
+  height: 75px;
+    font-family: "Nunito", sans-serif;
+}
+.method {
+  margin-top: -20px;
+}
+.endingpart {
+  background-image: url(IMG_5708.JPG);
+  height: 100px;
+}
+
+
+
+
+/* LATO FONTS */
+
+.lato-thin {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.lato-light {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.lato-black {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.lato-thin-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.lato-light-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.lato-regular-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.lato-bold-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.lato-black-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}

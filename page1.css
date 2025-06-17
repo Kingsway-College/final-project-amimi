@@ -1,0 +1,225 @@
+
+body {
+    height: 100svh;
+    margin: 0px;
+    display: grid;
+  }
+
+header{
+    text-align: right;
+    padding: 1px;
+    margin: 0px;
+  }
+
+.navbar{
+      text-decoration: none;
+      font-size: 20px;
+      display: flex;
+        justify-content: flex-end;
+    font-family: "Lato", sans-serif;
+  font-weight: 700;
+  }
+  .navtitle{
+      text-decoration: none;
+      font-size: 16px;
+      display: flex;
+        justify-content: flex-end;
+        margin-top: 8px;
+        margin-left: -200px;
+  }
+  .navLinks {
+    padding: 30px;
+  }
+  .icon {
+    margin-right: 920px;
+    margin-top: -5px;
+  }
+  .page1title{
+  background-image: url(IMG_5706.JPG);
+   margin: 0px;
+   margin-top: -40px;
+  padding: 10px;
+  height: 80%;
+  color: rgb(223, 223, 223);
+  }
+  h1 {
+    margin-top: 45px;
+    font-size: 50px;
+    font-family: "Lato", sans-serif;
+  font-weight: 700;
+  }
+  .modelview {
+    margin-top: -40px;
+    margin-bottom: -20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  .modelname {
+    margin-top: 50px;
+    text-align: center;
+    font-family: "Nunito", sans-serif;
+  }
+  .modeldivider {
+    margin-right: 550px;
+    margin-left: 550px;
+    margin-bottom: 50px;
+  }
+  .introparagraphz {
+    margin: 10px;
+    margin-top: -75px;
+    margin-bottom: -500px;
+    margin-right: 550px;
+    font-family: "Nunito", sans-serif;
+  }
+  .introending {
+    margin-top: 40px;
+    font-family: "Nunito", sans-serif;
+  }
+  .skullgif {
+    height: 200px;
+    width: 200px;
+    margin-left: 1000px;
+    margin-top: -100px;
+  }
+  .paragraphoverview {
+    font-size: 13px;
+    font-weight: bold;
+    font-family: "Lato", sans-serif;
+  font-weight: 700;
+  }
+  .extrafeatures {
+    background-image: url(IMG_5708.JPG);
+    margin-top: 25px;
+    margin-bottom: -450px;
+  }
+  .iconandtextz {
+    margin-left: 70px;
+  }
+  .featuresh1{
+    font-size: 75px;
+    margin-top: 150px;
+    margin-left: 10px;
+    font-family: "Lato", sans-serif;
+  font-weight: 700;
+  color: rgb(223, 223, 223);
+  }
+  .learnmore {
+    margin-top: -20px;
+    margin-left: 10px;
+    background-color: rgb(223, 223, 223);
+    margin-right: 1220px;
+    font-family: "Nunito", sans-serif;
+  }
+  .learnmoretxt {
+    margin-left: 15px;
+    font-size: 20px;
+    color: black;
+  }
+  .remotecontrol {
+    margin-top: -150px;
+    margin-left: 700px;
+  }
+  .remotedesc {
+    font-size: medium;
+    margin-left: -35px;
+    font-family: "Lato", sans-serif;
+  font-weight: 700;
+  color: rgb(223, 223, 223);
+  background-color: black;
+  margin-right: 430px;
+  }
+  img {
+    height: 120px;
+    width: 120px;
+  }
+  .instructions {
+    margin-left: 975px;
+    margin-top: -170px;
+  }
+  .instdesc {
+    font-size: medium;
+    margin-left: 5px;
+    margin-top: 12px;
+    font-family: "Lato", sans-serif;
+  font-weight: 700;
+  color: rgb(223, 223, 223);
+  background-color: black;
+  margin-right: 200px;
+  }
+
+.nunito {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+
+
+/* LATO FONTS */
+
+.lato-thin {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.lato-light {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.lato-black {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.lato-thin-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.lato-light-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.lato-regular-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.lato-bold-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.lato-black-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+
+
+
+  
